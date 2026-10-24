@@ -1,0 +1,7 @@
+discord.py
+requests
+pathlib 
+asyncio
+aiohttp
+json
+os
